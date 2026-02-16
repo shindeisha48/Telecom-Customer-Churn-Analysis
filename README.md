@@ -1,13 +1,13 @@
 # Telecom-Customer-Churn-Analysis | Excel Dashboard Project
 
-🎯 ## Project Objectives
+# 🎯 Project Objectives
 1. Analyze overall customer churn rate.
 2. Identify factors affecting churn (Contract type, Internet service, Payment method, etc.).
 3. Calculate total revenue & revenue loss due to churn.
 4. Understand churn behavior by Age group, Tenure, Gender, and Services.
 5. Provide actionable insights to improve customer retention.
 
-📌 Key Insights
+# 📌 Key Insights
 ✅ Customers with Month-to-Month contracts have the highest churn rate.
 ✅ Customers using Fiber Optic Internet show higher churn compared to DSL.
 ✅ Short tenure customers (0–12 months) are more likely to churn.
@@ -17,14 +17,14 @@
    Network reliability
    Product dissatisfaction
 
-📊 Dashboard Features
+# 📊 Dashboard Features
 ✔ KPI Cards (Total Customers, Churn Rate, Revenue)
 ✔ Churn by Contract (Bar Chart)
 ✔ Churn by Age Group (Column Chart)
 ✔ Revenue by Internet Type
 ✔ Interactive Filters (Slicers for Gender, Contract, Internet Type)
 
-🧠 Conclusion
+# 🧠 Conclusion
 The analysis clearly shows that contract type, tenure duration, and internet service type are the strongest drivers of churn.
 To reduce churn, telecom companies should:
 
@@ -33,7 +33,7 @@ To reduce churn, telecom companies should:
 - Provide long-term contract incentives
 - Compete better on pricing and device offers
 
-## Most Important KPIs (Show in Dashboard)
+# Most Important KPIs (Show in Dashboard)
 ✔ Total Customers
 ✔ Churn Rate
 ✔ Total Revenue
