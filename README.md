@@ -18,6 +18,7 @@
    Product dissatisfaction
 
 # 📊 Dashboard Features
+
 ✔ KPI Cards (Total Customers, Churn Rate, Revenue)
 ✔ Churn by Contract (Bar Chart)
 ✔ Churn by Age Group (Column Chart)
