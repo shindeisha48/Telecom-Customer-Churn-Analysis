@@ -32,8 +32,14 @@ To reduce churn, telecom companies should:
 - Improve service quality (especially fiber users)
 - Provide long-term contract incentives
 - Compete better on pricing and device offers
+
+## Most Important KPIs (Show in Dashboard)
+✔ Total Customers
+✔ Churn Rate
+✔ Total Revenue
+✔ Revenue Lost
+✔ Average Tenure
   
 ## dashboard 
-<img width="522" height="296" alt="image" src="https://github.com/user-attachments/assets/e9e88088-7d92-499f-a057-8293c0305177" />
 <img width="522" height="296" alt="image" src="https://github.com/user-attachments/assets/e9e88088-7d92-499f-a057-8293c0305177" />
 
