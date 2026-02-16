@@ -7,10 +7,6 @@
 4. Understand churn behavior by Age group, Tenure, Gender, and Services.
 5. Provide actionable insights to improve customer retention.
 
-## Dataset 
-- <a herf="https://github.com/shindeisha48/Telecom-Customer-Churn-Analysis/blob/main/Telecom-Customer-Churn-Dataset.xlsx">Dataset</a>
-
-
 📌 Key Insights
 ✅ Customers with Month-to-Month contracts have the highest churn rate.
 ✅ Customers using Fiber Optic Internet show higher churn compared to DSL.
@@ -37,5 +33,7 @@ To reduce churn, telecom companies should:
 - Provide long-term contract incentives
 - Compete better on pricing and device offers
   
-This project demonstrates how Excel can be used effectively for business decision-making and customer retention analysis.
-If you want, I can also give you:
+## dashboard 
+<img width="522" height="296" alt="image" src="https://github.com/user-attachments/assets/e9e88088-7d92-499f-a057-8293c0305177" />
+<img width="522" height="296" alt="image" src="https://github.com/user-attachments/assets/e9e88088-7d92-499f-a057-8293c0305177" />
+
